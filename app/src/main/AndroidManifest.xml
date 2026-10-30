@@ -5,8 +5,7 @@
     <application
         android:allowBackup="true"
         android:label="Royal Blue Tycoon"
-        android:theme="@android:style/Theme.Material.NoActionBar"
-        android:usesCleartextTraffic="false">
+        android:theme="@android:style/Theme.Material.Light.NoActionBar">
 
         <activity
             android:name=".MainActivity"
